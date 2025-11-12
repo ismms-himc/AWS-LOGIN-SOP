@@ -1,1 +1,46 @@
 # AWS-LOGIN-SOP
+
+## Step 1: Log into PasswordSafe
+
+Go to [https://passwordsafe.mountsinai.org/](https://passwordsafe.mountsinai.org/)  
+Use your Mount Sinai email in the format:
+
+```
+userID@mssm.edu
+```
+
+![](images/passwordsafe.png)  
+*Screenshot: PasswordSafe login page*
+
+---
+
+## Step 2: Open AWS Portal in Incognito Mode
+
+Open a new **Incognito Window** in your browser and go to:  
+[https://mountsinai-research.awsapps.com/start#/](https://mountsinai-research.awsapps.com/start#/)
+
+![](images/aws_incognito.png)  
+*Screenshot: AWS Mount Sinai portal in incognito mode*
+
+---
+
+## Step 3: Log in with PA User ID
+
+Log in using your **PA ID** in the format:
+
+```
+userid-pa@mssm.edu
+```
+
+Use the password stored in **PasswordSafe**.
+
+![](images/aws_pa_login.png)  
+*Screenshot: AWS login using PA ID*
+
+---
+
+## Notes
+
+- If you do not have a PA user ID, submit a request to the IT department specifying your project and the need for AWS access.  
+- Once approved, credentials will be stored in PasswordSafe under your user’s entry.  
+- Always use **incognito mode** to avoid caching issues with SSO sessions.
