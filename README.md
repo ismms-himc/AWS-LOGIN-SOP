@@ -17,7 +17,6 @@ Open a new **Incognito Window** in your browser and go to:
 [https://mountsinai-research.awsapps.com/start#/](https://mountsinai-research.awsapps.com/start#/)
 
 ![](images/aws-login.png)  
-*Screenshot: AWS login in incognito*
 
 ---
 
@@ -34,24 +33,21 @@ userid-pa@mssm.edu
 Go to "Systems"
 
 ![](images/passwordsafe.png)  
-*Screenshot: Systems*
 
 ![](images/system-pwd.png)  
-*Screenshot: Password*
 
 Use the password stored in **PasswordSafe**.
 ![](images/retrieve-pwd.png)  
-*Screenshot: Retrieve password*
+
 
 
 ## Now you have access to AWS
 
 ![](images/aws-p1.png)  
-*Screenshot: AWS Mount Sinai portal view*
 
 You can search for s3 bucket in the search tab
 ![](images/aws.png)  
-*Screenshot: AWS s3*
+
 
 ---
 
