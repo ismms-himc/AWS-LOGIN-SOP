@@ -37,6 +37,15 @@ Use the password stored in **PasswordSafe**.
 ![](images/aws.png)  
 *Screenshot: AWS login using PA ID*
 
+![](images/systempwd.png)  
+*Screenshot: AWS login using PA ID*
+
+![](images/retrieve-pwd.png)  
+*Screenshot: AWS login using PA ID*
+
+![](images/aws-login.png)  
+*Screenshot: AWS login using PA ID*
+
 ---
 
 ## Notes
