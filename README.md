@@ -21,22 +21,27 @@ Open a new **Incognito Window** in your browser and go to:
 
 ---
 
-## Step 3: Log in with PA User ID
+## Step 3: Log in with PA User ID in the AWS link
 
 Log in using your **PA ID** in the format:
 
 ```
 userid-pa@mssm.edu
 ```
+---
 
-Use the password stored in **PasswordSafe**.
-
-![](images/retrieve-pwd.png)  
-*Screenshot: AWS login using PA ID*
+## Step 4: Retrieve password from Passwordsafe
+Go to "Systems"
 
 ![](images/passwordsafe.png)  
-*Screenshot: PasswordSafe login page*
+*Screenshot: PasswordSafe login*
 
+Use the password stored in **PasswordSafe**.
+![](images/retrieve-pwd.png)  
+*Screenshot: Retrieve password*
+
+
+## Now you have access to AWS
 ![](images/systempwd.png)  
 *Screenshot: AWS login using PA ID*
 
