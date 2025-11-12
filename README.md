@@ -3,14 +3,11 @@
 ## Step 1: Log into PasswordSafe
 
 Go to [https://passwordsafe.mountsinai.org/](https://passwordsafe.mountsinai.org/)  
-Use your Mount Sinai email in the format:
+Use your Mount Sinai email in the format and login:
 
 ```
 userID@mssm.edu
 ```
-
-![](images/passwordsafe.png)  
-*Screenshot: PasswordSafe login page*
 
 ---
 
@@ -36,6 +33,9 @@ Use the password stored in **PasswordSafe**.
 
 ![](images/retrieve-pwd.png)  
 *Screenshot: AWS login using PA ID*
+
+![](images/passwordsafe.png)  
+*Screenshot: PasswordSafe login page*
 
 ![](images/systempwd.png)  
 *Screenshot: AWS login using PA ID*
