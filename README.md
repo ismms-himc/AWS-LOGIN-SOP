@@ -34,7 +34,10 @@ userid-pa@mssm.edu
 Go to "Systems"
 
 ![](images/passwordsafe.png)  
-*Screenshot: PasswordSafe login*
+*Screenshot: Systems*
+
+![](images/system pwd.png)  
+*Screenshot: Password*
 
 Use the password stored in **PasswordSafe**.
 ![](images/retrieve-pwd.png)  
@@ -42,14 +45,13 @@ Use the password stored in **PasswordSafe**.
 
 
 ## Now you have access to AWS
-![](images/systempwd.png)  
-*Screenshot: AWS login using PA ID*
 
 ![](images/aws-p1.png)  
-*Screenshot: AWS Mount Sinai portal in incognito mode*
+*Screenshot: AWS Mount Sinai portal view*
 
+You can search for s3 bucket in the search tab
 ![](images/aws.png)  
-*Screenshot: AWS login using PA ID*
+*Screenshot: AWS s3*
 
 ---
 
