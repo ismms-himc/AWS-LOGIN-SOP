@@ -42,5 +42,4 @@ Use the password stored in **PasswordSafe**.
 ## Notes
 
 - If you do not have a PA user ID, submit a request to the IT department specifying your project and the need for AWS access.  
-- Once approved, credentials will be stored in PasswordSafe under your user’s entry.  
-- Always use **incognito mode** to avoid caching issues with SSO sessions.
+- When signing up for the first time, authenticate the PA account using authenticator
