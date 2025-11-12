@@ -3,14 +3,11 @@
 ## Step 1: Log into PasswordSafe
 
 Go to [https://passwordsafe.mountsinai.org/](https://passwordsafe.mountsinai.org/)  
-Use your Mount Sinai email in the format:
+Use your Mount Sinai email in the format and login:
 
 ```
 userID@mssm.edu
 ```
-
-![](images/passwordsafe.png)  
-*Screenshot: PasswordSafe login page*
 
 ---
 
@@ -19,32 +16,42 @@ userID@mssm.edu
 Open a new **Incognito Window** in your browser and go to:  
 [https://mountsinai-research.awsapps.com/start#/](https://mountsinai-research.awsapps.com/start#/)
 
-![](images/aws-p1.png)  
-*Screenshot: AWS Mount Sinai portal in incognito mode*
+![](images/aws-login.png)  
+*Screenshot: AWS login in incognito*
 
 ---
 
-## Step 3: Log in with PA User ID
+## Step 3: Log in with PA User ID in the AWS link
 
 Log in using your **PA ID** in the format:
 
 ```
 userid-pa@mssm.edu
 ```
+---
+
+## Step 4: Retrieve password from Passwordsafe
+Go to "Systems"
+
+![](images/passwordsafe.png)  
+*Screenshot: Systems*
+
+![](images/system pwd.png)  
+*Screenshot: Password*
 
 Use the password stored in **PasswordSafe**.
-
-![](images/aws.png)  
-*Screenshot: AWS login using PA ID*
-
-![](images/systempwd.png)  
-*Screenshot: AWS login using PA ID*
-
 ![](images/retrieve-pwd.png)  
-*Screenshot: AWS login using PA ID*
+*Screenshot: Retrieve password*
 
-![](images/aws-login.png)  
-*Screenshot: AWS login using PA ID*
+
+## Now you have access to AWS
+
+![](images/aws-p1.png)  
+*Screenshot: AWS Mount Sinai portal view*
+
+You can search for s3 bucket in the search tab
+![](images/aws.png)  
+*Screenshot: AWS s3*
 
 ---
 
