@@ -19,7 +19,7 @@ userID@mssm.edu
 Open a new **Incognito Window** in your browser and go to:  
 [https://mountsinai-research.awsapps.com/start#/](https://mountsinai-research.awsapps.com/start#/)
 
-![](images/aws-p1)  
+![](images/aws-p1.png)  
 *Screenshot: AWS Mount Sinai portal in incognito mode*
 
 ---
@@ -34,7 +34,7 @@ userid-pa@mssm.edu
 
 Use the password stored in **PasswordSafe**.
 
-![](images/aws)  
+![](images/aws.png)  
 *Screenshot: AWS login using PA ID*
 
 ---
