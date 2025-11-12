@@ -36,7 +36,7 @@ Go to "Systems"
 ![](images/passwordsafe.png)  
 *Screenshot: Systems*
 
-![](images/system pwd.png)  
+![](images/system-pwd.png)  
 *Screenshot: Password*
 
 Use the password stored in **PasswordSafe**.
